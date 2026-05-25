@@ -1,0 +1,6 @@
+fault_id,timestamp,fault_type,severity,description,resolution,resolution_time_minutes
+FLT001,2024-01-01T10:30:00,power_supply,critical,Power supply failure in cabin,Replaced power supply unit,45
+FLT002,2024-01-02T14:15:00,brake_system,high,Brake pressure drop detected,Bled brake system,120
+FLT003,2024-01-03T09:45:00,cooling,medium,Coolant temperature high,Refilled coolant reservoir,30
+FLT004,2024-01-04T16:20:00,electrical,high,Battery voltage unstable,Replaced battery terminals,90
+FLT005,2024-01-05T11:00:00,mechanical,low,Loose door latch,Tightened fasteners,15
